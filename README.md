@@ -1,2 +1,2 @@
 # thuongfurina.example.com
-index.html
+trangchu.html
